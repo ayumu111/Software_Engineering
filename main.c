@@ -1,5 +1,6 @@
 #include<stdio.h>
 
+//ソースファイルを追加しました
 int main() {
     int a, b, c;
     printf("Enter three integers: ");
